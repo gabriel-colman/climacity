@@ -1,3 +1,10 @@
+# Climacity
+
+A aplicação consistirá somente de uma
+página com dois painéis: no painel posicionado a esquerda, deverá ter uma área destinada
+para a busca de cidades e as informações (Cidade, País, Temperatura atual, Umidade e Clima)
+referentes ao clima da cidade selecionada.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
